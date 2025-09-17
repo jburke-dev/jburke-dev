@@ -1,5 +1,6 @@
 <div id="header" align="center">
     Header image here
+    <img src="https://imgs.xkcd.com/comics/containers.png" />
 </div>
 <div id="badges">
     <a href="https://www.linkedin.com/in/johan-burke/">
