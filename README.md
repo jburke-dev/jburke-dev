@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://imgur.com/a/BMoC7B2" alt="Hey!  I'm Johan Burke, Full-stack software engineer" />
+    <img src="https://i.imgur.com/d5urxoF.png" alt="Hey!  I'm Johan Burke, Full-stack software engineer" />
 </div>
 <div id="badges">
     <a href="https://www.linkedin.com/in/johan-burke/">
