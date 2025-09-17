@@ -10,8 +10,6 @@
     Hello!
 </h1>
 
----
-
 ### :man_technologist: About Me :
 
 I am a full-stack software engineer with staff-level experience based in Philadelphia.
@@ -23,6 +21,9 @@ I am a full-stack software engineer with staff-level experience based in Philade
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+I have worked across the tech-stack, from frontend to backend, CI/CD, and cloud.
+
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40" />
@@ -41,7 +42,7 @@ I am a full-stack software engineer with staff-level experience based in Philade
 
 ### :satellite: Homelab :
 
-I am currently in the process of migrating my homelab from proxmox VMs provisioned with Ansible and running Docker Compose based hosts to Nix OS VMs running in Nix OS hypervisors with k3s for container orchestration.
+I am currently in the process of migrating my homelab from proxmox VMs provisioned with Ansible and running Docker Compose based hosts to Nix OS VMs running in Nix OS hypervisors with k3s for container orchestration.  You can check out my progress at my [Nix monorepo](https://github.com/jburke-dev/nix-fleet).
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original.svg" title="Proxmox" alt="Proxmox" width="40" height="40" />
