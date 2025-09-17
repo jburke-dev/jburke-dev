@@ -1,6 +1,5 @@
 <div id="header" align="center">
-    Header image here
-    <img src="https://imgs.xkcd.com/comics/containers.png" />
+    <img src="https://imgur.com/a/BMoC7B2" alt="Hey!  I'm Johan Burke, Full-stack software engineer" />
 </div>
 <div id="badges">
     <a href="https://www.linkedin.com/in/johan-burke/">
@@ -10,9 +9,7 @@
 <h1>
     Hello!
 </h1>
-<div align="center">
-    Banner image here
-</div>
+
 ---
 
 ### :man_technologist: About Me :
