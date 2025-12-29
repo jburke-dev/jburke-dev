@@ -11,8 +11,8 @@
 
 I am a full-stack software engineer with staff-level experience based in Philadelphia.
 
-- Open to exciting senior roles
-- Passionate about Linux, self-hosting, and declarative infrastructure
+- Currently working as backend focused senior software engineer in FinTech
+- Passionate about Linux, open-source, self-hosting, and declarative infrastructure
 - Hoping to become a modern Renaissance man
 
 ---
@@ -39,7 +39,7 @@ I have worked across the tech-stack, from frontend to backend, CI/CD, and cloud.
 
 ### :satellite: Homelab :
 
-I am currently in the process of migrating my homelab from proxmox VMs provisioned with Ansible and running Docker Compose based hosts to Nix OS VMs running in Nix OS hypervisors with k3s for container orchestration.  You can check out my progress at my [Nix monorepo](https://github.com/jburke-dev/nix-fleet).
+I am currently in the process of migrating my homelab servers from a bare-metal k3s cluster running NixOS to a Proxmox cluster running a kubernetes cluster with Talos linux, provisioned with Terraform.
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original.svg" title="Proxmox" alt="Proxmox" width="40" height="40" />
@@ -47,6 +47,5 @@ I am currently in the process of migrating my homelab from proxmox VMs provision
     <img src="https://github.com/devicons/devicon/blob/master/icons/k3s/k3s-original.svg" title="k3s" alt="k3s" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original.svg" title="pfsense" alt="pfsense" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/forgejo/forgejo-original.svg" title="Forgejo" alt="Forgejo" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/traefikproxy/traefikproxy-original.svg" title="Traefik" alt="Traefik" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="40" height="40" />
 </div>
